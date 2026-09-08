@@ -12,9 +12,7 @@ It helps organize requests and makes it easier to monitor their current status.
 Primary Actor: System User / ICT Personnel
 
 ## Use Case Diagram
-<img width="838" height="967" alt="Use-Case-Diagram" src="https://github.com/user-attachments/assets/4cc9d91c-b531-4fb2-8676-e94dddfc1f71" />
-
-
+<img width="100" height="100" alt="Use-Case-Diagram" src="https://github.com/user-attachments/assets/4cc9d91c-b531-4fb2-8676-e94dddfc1f71" />
 
 ## Entity Relationship Diagram
 
